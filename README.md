@@ -19,13 +19,17 @@ This project enables users to join chat rooms and communicate instantly with oth
 ## 🛠️ Tech Stack
 
 ### Frontend
-- React.js  
-- CSS  
+- React
+- React Hooks 
+- React Router v6
+- Socket.io-client
+- CSS
 
 ### Backend
 - Node.js  
-- Express.js  
+- Express 
 - Socket.IO  
+- CORS
 
 ---
 
@@ -39,6 +43,8 @@ This project enables users to join chat rooms and communicate instantly with oth
 ```bash
 cd server
 npm install
+npm start
 
 cd client
 npm install
+npm start

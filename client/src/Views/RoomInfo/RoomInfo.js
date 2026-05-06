@@ -1,11 +1,10 @@
 import React from 'react';
-
 import onlineIcon from '../../icons/onlineIcon.png';
 import closeIcon from '../../icons/closeIcon.png';
+import './RoomInfo.css'; 
 
-import './InfoBar.css';
-
-const InfoBar = ({ room }) => (
+// Header showing the current room name
+const RoomInfo = ({ room }) => (
   <div className="infoBar">
     <div className="leftInnerContainer">
       <img className="onlineIcon" src={onlineIcon} alt="online icon" />
@@ -17,4 +16,4 @@ const InfoBar = ({ room }) => (
   </div>
 );
 
-export default InfoBar;
+export default RoomInfo;
