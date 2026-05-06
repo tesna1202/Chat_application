@@ -1,22 +1,22 @@
-# 💬 Real-Time Chat Application
+# Real-Time Chat Application
 
 A full-stack real-time chat application built using React, Node.js, and Socket.IO.  
 This project enables users to join chat rooms and communicate instantly with others.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔹 Real-time messaging using WebSockets  
-- 🔹 Join custom chat rooms  
-- 🔹 Multiple users in the same room  
-- 🔹 Auto-scroll chat messages  
-- 🔹 Clean and responsive UI  
-- 🔹 Live user list in each room  
+- Real-time messaging using WebSockets  
+- Join custom chat rooms  
+- Multiple users in the same room  
+- Auto-scroll chat messages  
+- Clean and responsive UI  
+- Live user list in each room  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - React
@@ -33,7 +33,7 @@ This project enables users to join chat rooms and communicate instantly with oth
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### 1. Clone the repository
 
